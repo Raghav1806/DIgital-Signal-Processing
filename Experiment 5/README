@@ -1,0 +1,10 @@
+Implementation of following filters on a user-defined signal:
+(1) Rectangular window
+(2) Triangular window
+(3) Hanning window
+(4) Hamming window
+(5) Blackmann window
+
+Developed By:
+Raghav Sharma
+2015EEB1071
